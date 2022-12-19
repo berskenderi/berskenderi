@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berskenderi an Electrical&Electronics Engineer. 
 - 👀 I’m interested in improving myself in different areas. 
-- 🌱 I’m currently learning new coding language
+- 🌱 I’m currently learning new coding languages
 - 📫 You can reach out to me from my e-mail: berkskenderi@gmail.com
 
 <!---
